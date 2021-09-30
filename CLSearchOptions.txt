@@ -1,0 +1,2730 @@
+
+++++++++++++++++++++++++++
+        US
+++++++++++++++++++++++++++
+
+-------------------------
+            Alabama
+-------------------------
+auburn
+    https://auburn.craigslist.org/
+
+birmingham
+    https://bham.craigslist.org/
+
+dothan
+    https://dothan.craigslist.org/
+
+florence / muscle shoals
+    https://shoals.craigslist.org/
+
+gadsden-anniston
+    https://gadsden.craigslist.org/
+
+huntsville / decatur
+    https://huntsville.craigslist.org/
+
+mobile
+    https://mobile.craigslist.org/
+
+montgomery
+    https://montgomery.craigslist.org/
+
+tuscaloosa
+    https://tuscaloosa.craigslist.org/
+
+
+-------------------------
+            Alaska
+-------------------------
+anchorage / mat-su
+    https://anchorage.craigslist.org/
+
+fairbanks
+    https://fairbanks.craigslist.org/
+
+kenai peninsula
+    https://kenai.craigslist.org/
+
+southeast alaska
+    https://juneau.craigslist.org/
+
+
+-------------------------
+            Arizona
+-------------------------
+flagstaff / sedona
+    https://flagstaff.craigslist.org/
+
+mohave county
+    https://mohave.craigslist.org/
+
+phoenix
+    https://phoenix.craigslist.org/
+
+prescott
+    https://prescott.craigslist.org/
+
+show low
+    https://showlow.craigslist.org/
+
+sierra vista
+    https://sierravista.craigslist.org/
+
+tucson
+    https://tucson.craigslist.org/
+
+yuma
+    https://yuma.craigslist.org/
+
+
+-------------------------
+            Arkansas
+-------------------------
+fayetteville 
+    https://fayar.craigslist.org/
+
+fort smith
+    https://fortsmith.craigslist.org/
+
+jonesboro
+    https://jonesboro.craigslist.org/
+
+little rock
+    https://littlerock.craigslist.org/
+
+texarkana
+    https://texarkana.craigslist.org/
+
+
+-------------------------
+            California
+-------------------------
+bakersfield
+    https://bakersfield.craigslist.org/
+
+chico
+    https://chico.craigslist.org/
+
+fresno / madera
+    https://fresno.craigslist.org/
+
+gold country
+    https://goldcountry.craigslist.org/
+
+hanford-corcoran
+    https://hanford.craigslist.org/
+
+humboldt county
+    https://humboldt.craigslist.org/
+
+imperial county
+    https://imperial.craigslist.org/
+
+inland empire
+    https://inlandempire.craigslist.org/
+
+los angeles
+    https://losangeles.craigslist.org/
+
+mendocino county
+    https://mendocino.craigslist.org/
+
+merced
+    https://merced.craigslist.org/
+
+modesto
+    https://modesto.craigslist.org/
+
+monterey bay
+    https://monterey.craigslist.org/
+
+orange county
+    https://orangecounty.craigslist.org/
+
+palm springs
+    https://palmsprings.craigslist.org/
+
+redding
+    https://redding.craigslist.org/
+
+sacramento
+    https://sacramento.craigslist.org/
+
+san diego
+    https://sandiego.craigslist.org/
+
+san francisco bay area
+    https://sfbay.craigslist.org/
+
+san luis obispo
+    https://slo.craigslist.org/
+
+santa barbara
+    https://santabarbara.craigslist.org/
+
+santa maria
+    https://santamaria.craigslist.org/
+
+siskiyou county
+    https://siskiyou.craigslist.org/
+
+stockton
+    https://stockton.craigslist.org/
+
+susanville
+    https://susanville.craigslist.org/
+
+ventura county
+    https://ventura.craigslist.org/
+
+visalia-tulare
+    https://visalia.craigslist.org/
+
+yuba-sutter
+    https://yubasutter.craigslist.org/
+
+
+-------------------------
+            Colorado
+-------------------------
+boulder
+    https://boulder.craigslist.org/
+
+colorado springs
+    https://cosprings.craigslist.org/
+
+denver
+    https://denver.craigslist.org/
+
+eastern CO
+    https://eastco.craigslist.org/
+
+fort collins / north CO
+    https://fortcollins.craigslist.org/
+
+high rockies
+    https://rockies.craigslist.org/
+
+pueblo
+    https://pueblo.craigslist.org/
+
+western slope
+    https://westslope.craigslist.org/
+
+
+-------------------------
+            Connecticut
+-------------------------
+eastern CT
+    https://newlondon.craigslist.org/
+
+hartford
+    https://hartford.craigslist.org/
+
+new haven
+    https://newhaven.craigslist.org/
+
+northwest CT
+    https://nwct.craigslist.org/
+
+
+-------------------------
+            Delaware
+-------------------------
+delaware
+    https://delaware.craigslist.org/
+
+
+-------------------------
+            District of Columbia
+-------------------------
+washington
+    https://washingtondc.craigslist.org/
+
+
+-------------------------
+            Florida
+-------------------------
+broward county
+    http://miami.craigslist.org/brw/
+
+daytona beach
+    https://daytona.craigslist.org/
+
+florida keys
+    https://keys.craigslist.org/
+
+fort lauderdale
+    https://fortlauderdale.craigslist.org/
+
+ft myers / SW florida
+    https://fortmyers.craigslist.org/
+
+gainesville
+    https://gainesville.craigslist.org/
+
+heartland florida
+    https://cfl.craigslist.org/
+
+jacksonville
+    https://jacksonville.craigslist.org/
+
+lakeland
+    https://lakeland.craigslist.org/
+
+miami / dade
+    http://miami.craigslist.org/mdc/
+
+north central FL
+    https://lakecity.craigslist.org/
+
+ocala
+    https://ocala.craigslist.org/
+
+okaloosa / walton
+    https://okaloosa.craigslist.org/
+
+orlando
+    https://orlando.craigslist.org/
+
+panama city
+    https://panamacity.craigslist.org/
+
+pensacola
+    https://pensacola.craigslist.org/
+
+sarasota-bradenton
+    https://sarasota.craigslist.org/
+
+south florida
+    https://miami.craigslist.org/
+
+space coast
+    https://spacecoast.craigslist.org/
+
+st augustine
+    https://staugustine.craigslist.org/
+
+tallahassee
+    https://tallahassee.craigslist.org/
+
+tampa bay area
+    https://tampa.craigslist.org/
+
+treasure coast
+    https://treasure.craigslist.org/
+
+palm beach county
+    http://miami.craigslist.org/pbc/
+
+
+-------------------------
+            Georgia
+-------------------------
+albany 
+    https://albanyga.craigslist.org/
+
+athens
+    https://athensga.craigslist.org/
+
+atlanta
+    https://atlanta.craigslist.org/
+
+augusta
+    https://augusta.craigslist.org/
+
+brunswick
+    https://brunswick.craigslist.org/
+
+columbus 
+    https://columbusga.craigslist.org/
+
+macon / warner robins
+    https://macon.craigslist.org/
+
+northwest GA
+    https://nwga.craigslist.org/
+
+savannah / hinesville
+    https://savannah.craigslist.org/
+
+statesboro
+    https://statesboro.craigslist.org/
+
+valdosta
+    https://valdosta.craigslist.org/
+
+
+-------------------------
+            Hawaii
+-------------------------
+hawaii
+    https://honolulu.craigslist.org/
+
+
+-------------------------
+            Idaho
+-------------------------
+boise
+    https://boise.craigslist.org/
+
+east idaho
+    https://eastidaho.craigslist.org/
+
+lewiston / clarkston
+    https://lewiston.craigslist.org/
+
+twin falls
+    https://twinfalls.craigslist.org/
+
+
+-------------------------
+            Illinois
+-------------------------
+bloomington-normal
+    https://bn.craigslist.org/
+
+champaign urbana
+    https://chambana.craigslist.org/
+
+chicago
+    https://chicago.craigslist.org/
+
+decatur
+    https://decatur.craigslist.org/
+
+la salle co
+    https://lasalle.craigslist.org/
+
+mattoon-charleston
+    https://mattoon.craigslist.org/
+
+peoria
+    https://peoria.craigslist.org/
+
+rockford
+    https://rockford.craigslist.org/
+
+southern illinois
+    https://carbondale.craigslist.org/
+
+springfield 
+    https://springfieldil.craigslist.org/
+
+western IL
+    https://quincy.craigslist.org/
+
+
+-------------------------
+            Indiana
+-------------------------
+bloomington
+    https://bloomington.craigslist.org/
+
+evansville
+    https://evansville.craigslist.org/
+
+fort wayne
+    https://fortwayne.craigslist.org/
+
+indianapolis
+    https://indianapolis.craigslist.org/
+
+kokomo
+    https://kokomo.craigslist.org/
+
+lafayette / west lafayette
+    https://tippecanoe.craigslist.org/
+
+muncie / anderson
+    https://muncie.craigslist.org/
+
+richmond 
+    https://richmondin.craigslist.org/
+
+south bend / michiana
+    https://southbend.craigslist.org/
+
+terre haute
+    https://terrehaute.craigslist.org/
+
+
+-------------------------
+            Iowa
+-------------------------
+ames
+    https://ames.craigslist.org/
+
+cedar rapids
+    https://cedarrapids.craigslist.org/
+
+des moines
+    https://desmoines.craigslist.org/
+
+dubuque
+    https://dubuque.craigslist.org/
+
+fort dodge
+    https://fortdodge.craigslist.org/
+
+iowa city
+    https://iowacity.craigslist.org/
+
+mason city
+    https://masoncity.craigslist.org/
+
+quad cities
+    https://quadcities.craigslist.org/
+
+sioux city
+    https://siouxcity.craigslist.org/
+
+southeast IA
+    https://ottumwa.craigslist.org/
+
+waterloo / cedar falls
+    https://waterloo.craigslist.org/
+
+
+-------------------------
+            Kansas
+-------------------------
+lawrence
+    https://lawrence.craigslist.org/
+
+manhattan
+    https://ksu.craigslist.org/
+
+northwest KS
+    https://nwks.craigslist.org/
+
+salina
+    https://salina.craigslist.org/
+
+southeast KS
+    https://seks.craigslist.org/
+
+southwest KS
+    https://swks.craigslist.org/
+
+topeka
+    https://topeka.craigslist.org/
+
+wichita
+    https://wichita.craigslist.org/
+
+
+-------------------------
+            Kentucky
+-------------------------
+bowling green
+    https://bgky.craigslist.org/
+
+eastern kentucky
+    https://eastky.craigslist.org/
+
+lexington
+    https://lexington.craigslist.org/
+
+louisville
+    https://louisville.craigslist.org/
+
+owensboro
+    https://owensboro.craigslist.org/
+
+western KY
+    https://westky.craigslist.org/
+
+
+-------------------------
+            Louisiana
+-------------------------
+baton rouge
+    https://batonrouge.craigslist.org/
+
+central louisiana
+    https://cenla.craigslist.org/
+
+houma
+    https://houma.craigslist.org/
+
+lafayette
+    https://lafayette.craigslist.org/
+
+lake charles
+    https://lakecharles.craigslist.org/
+
+monroe
+    https://monroe.craigslist.org/
+
+new orleans
+    https://neworleans.craigslist.org/
+
+shreveport
+    https://shreveport.craigslist.org/
+
+
+-------------------------
+            Maine
+-------------------------
+maine
+    https://maine.craigslist.org/
+
+
+-------------------------
+            Maryland
+-------------------------
+annapolis
+    https://annapolis.craigslist.org/
+
+baltimore
+    https://baltimore.craigslist.org/
+
+eastern shore
+    https://easternshore.craigslist.org/
+
+frederick
+    https://frederick.craigslist.org/
+
+southern maryland
+    https://smd.craigslist.org/
+
+western maryland
+    https://westmd.craigslist.org/
+
+
+-------------------------
+            Massachusetts
+-------------------------
+boston
+    https://boston.craigslist.org/
+
+cape cod / islands
+    https://capecod.craigslist.org/
+
+south coast
+    https://southcoast.craigslist.org/
+
+western massachusetts
+    https://westernmass.craigslist.org/
+
+worcester / central MA
+    https://worcester.craigslist.org/
+
+
+-------------------------
+            Michigan
+-------------------------
+ann arbor
+    https://annarbor.craigslist.org/
+
+battle creek
+    https://battlecreek.craigslist.org/
+
+central michigan
+    https://centralmich.craigslist.org/
+
+detroit metro
+    https://detroit.craigslist.org/
+
+flint
+    https://flint.craigslist.org/
+
+grand rapids
+    https://grandrapids.craigslist.org/
+
+holland
+    https://holland.craigslist.org/
+
+jackson 
+    https://jxn.craigslist.org/
+
+kalamazoo
+    https://kalamazoo.craigslist.org/
+
+lansing
+    https://lansing.craigslist.org/
+
+monroe 
+    https://monroemi.craigslist.org/
+
+muskegon
+    https://muskegon.craigslist.org/
+
+northern michigan
+    https://nmi.craigslist.org/
+
+port huron
+    https://porthuron.craigslist.org/
+
+saginaw-midland-baycity
+    https://saginaw.craigslist.org/
+
+southwest michigan
+    https://swmi.craigslist.org/
+
+the thumb
+    https://thumb.craigslist.org/
+
+upper peninsula
+    https://up.craigslist.org/
+
+
+-------------------------
+            Minnesota
+-------------------------
+bemidji
+    https://bemidji.craigslist.org/
+
+brainerd
+    https://brainerd.craigslist.org/
+
+duluth / superior
+    https://duluth.craigslist.org/
+
+mankato
+    https://mankato.craigslist.org/
+
+minneapolis / st paul
+    https://minneapolis.craigslist.org/
+
+rochester 
+    https://rmn.craigslist.org/
+
+southwest MN
+    https://marshall.craigslist.org/
+
+st cloud
+    https://stcloud.craigslist.org/
+
+
+-------------------------
+            Mississippi
+-------------------------
+gulfport / biloxi
+    https://gulfport.craigslist.org/
+
+hattiesburg
+    https://hattiesburg.craigslist.org/
+
+jackson
+    https://jackson.craigslist.org/
+
+meridian
+    https://meridian.craigslist.org/
+
+north mississippi
+    https://northmiss.craigslist.org/
+
+southwest MS
+    https://natchez.craigslist.org/
+
+
+-------------------------
+            Missouri
+-------------------------
+columbia / jeff city
+    https://columbiamo.craigslist.org/
+
+joplin
+    https://joplin.craigslist.org/
+
+kansas city
+    https://kansascity.craigslist.org/
+
+kirksville
+    https://kirksville.craigslist.org/
+
+lake of the ozarks
+    https://loz.craigslist.org/
+
+southeast missouri
+    https://semo.craigslist.org/
+
+springfield
+    https://springfield.craigslist.org/
+
+st joseph
+    https://stjoseph.craigslist.org/
+
+st louis
+    https://stlouis.craigslist.org/
+
+
+-------------------------
+            Montana
+-------------------------
+billings
+    https://billings.craigslist.org/
+
+bozeman
+    https://bozeman.craigslist.org/
+
+butte
+    https://butte.craigslist.org/
+
+great falls
+    https://greatfalls.craigslist.org/
+
+helena
+    https://helena.craigslist.org/
+
+kalispell
+    https://kalispell.craigslist.org/
+
+missoula
+    https://missoula.craigslist.org/
+
+eastern montana
+    https://montana.craigslist.org/
+
+
+-------------------------
+            Nebraska
+-------------------------
+grand island
+    https://grandisland.craigslist.org/
+
+lincoln
+    https://lincoln.craigslist.org/
+
+north platte
+    https://northplatte.craigslist.org/
+
+omaha / council bluffs
+    https://omaha.craigslist.org/
+
+scottsbluff / panhandle
+    https://scottsbluff.craigslist.org/
+
+
+-------------------------
+            Nevada
+-------------------------
+elko
+    https://elko.craigslist.org/
+
+las vegas
+    https://lasvegas.craigslist.org/
+
+reno / tahoe
+    https://reno.craigslist.org/
+
+
+-------------------------
+            New Hampshire
+-------------------------
+new hampshire
+    https://nh.craigslist.org/
+
+
+-------------------------
+            New Jersey
+-------------------------
+central NJ
+    https://cnj.craigslist.org/
+
+jersey shore
+    https://jerseyshore.craigslist.org/
+
+north jersey
+    https://newjersey.craigslist.org/
+
+south jersey
+    https://southjersey.craigslist.org/
+
+
+-------------------------
+            New Mexico
+-------------------------
+albuquerque
+    https://albuquerque.craigslist.org/
+
+clovis / portales
+    https://clovis.craigslist.org/
+
+farmington
+    https://farmington.craigslist.org/
+
+las cruces
+    https://lascruces.craigslist.org/
+
+roswell / carlsbad
+    https://roswell.craigslist.org/
+
+santa fe / taos
+    https://santafe.craigslist.org/
+
+
+-------------------------
+            New York
+-------------------------
+albany
+    https://albany.craigslist.org/
+
+binghamton
+    https://binghamton.craigslist.org/
+
+buffalo
+    https://buffalo.craigslist.org/
+
+catskills
+    https://catskills.craigslist.org/
+
+chautauqua
+    https://chautauqua.craigslist.org/
+
+elmira-corning
+    https://elmira.craigslist.org/
+
+finger lakes
+    https://fingerlakes.craigslist.org/
+
+glens falls
+    https://glensfalls.craigslist.org/
+
+hudson valley
+    https://hudsonvalley.craigslist.org/
+
+ithaca
+    https://ithaca.craigslist.org/
+
+long island
+    https://longisland.craigslist.org/
+
+new york city
+    https://newyork.craigslist.org/
+
+oneonta
+    https://oneonta.craigslist.org/
+
+plattsburgh-adirondacks
+    https://plattsburgh.craigslist.org/
+
+potsdam-canton-massena
+    https://potsdam.craigslist.org/
+
+rochester
+    https://rochester.craigslist.org/
+
+syracuse
+    https://syracuse.craigslist.org/
+
+twin tiers NY/PA
+    https://twintiers.craigslist.org/
+
+utica-rome-oneida
+    https://utica.craigslist.org/
+
+watertown
+    https://watertown.craigslist.org/
+
+
+-------------------------
+            North Carolina
+-------------------------
+asheville
+    https://asheville.craigslist.org/
+
+boone
+    https://boone.craigslist.org/
+
+charlotte
+    https://charlotte.craigslist.org/
+
+eastern NC
+    https://eastnc.craigslist.org/
+
+fayetteville
+    https://fayetteville.craigslist.org/
+
+greensboro
+    https://greensboro.craigslist.org/
+
+hickory / lenoir
+    https://hickory.craigslist.org/
+
+jacksonville 
+    https://onslow.craigslist.org/
+
+outer banks
+    https://outerbanks.craigslist.org/
+
+raleigh / durham / CH
+    https://raleigh.craigslist.org/
+
+wilmington
+    https://wilmington.craigslist.org/
+
+winston-salem
+    https://winstonsalem.craigslist.org/
+
+
+-------------------------
+            North Dakota
+-------------------------
+bismarck
+    https://bismarck.craigslist.org/
+
+fargo / moorhead
+    https://fargo.craigslist.org/
+
+grand forks
+    https://grandforks.craigslist.org/
+
+north dakota
+    https://nd.craigslist.org/
+
+
+-------------------------
+            Ohio
+-------------------------
+akron / canton
+    https://akroncanton.craigslist.org/
+
+ashtabula
+    https://ashtabula.craigslist.org/
+
+athens 
+    https://athensohio.craigslist.org/
+
+chillicothe
+    https://chillicothe.craigslist.org/
+
+cincinnati
+    https://cincinnati.craigslist.org/
+
+cleveland
+    https://cleveland.craigslist.org/
+
+columbus
+    https://columbus.craigslist.org/
+
+dayton / springfield
+    https://dayton.craigslist.org/
+
+lima / findlay
+    https://limaohio.craigslist.org/
+
+mansfield
+    https://mansfield.craigslist.org/
+
+sandusky
+    https://sandusky.craigslist.org/
+
+toledo
+    https://toledo.craigslist.org/
+
+tuscarawas co
+    https://tuscarawas.craigslist.org/
+
+youngstown
+    https://youngstown.craigslist.org/
+
+zanesville / cambridge
+    https://zanesville.craigslist.org/
+
+
+-------------------------
+            Oklahoma
+-------------------------
+lawton
+    https://lawton.craigslist.org/
+
+northwest OK
+    https://enid.craigslist.org/
+
+oklahoma city
+    https://oklahomacity.craigslist.org/
+
+stillwater
+    https://stillwater.craigslist.org/
+
+tulsa
+    https://tulsa.craigslist.org/
+
+
+-------------------------
+            Oregon
+-------------------------
+bend
+    https://bend.craigslist.org/
+
+corvallis/albany
+    https://corvallis.craigslist.org/
+
+east oregon
+    https://eastoregon.craigslist.org/
+
+eugene
+    https://eugene.craigslist.org/
+
+klamath falls
+    https://klamath.craigslist.org/
+
+medford-ashland
+    https://medford.craigslist.org/
+
+oregon coast
+    https://oregoncoast.craigslist.org/
+
+portland
+    https://portland.craigslist.org/
+
+roseburg
+    https://roseburg.craigslist.org/
+
+salem
+    https://salem.craigslist.org/
+
+
+-------------------------
+            Pennsylvania
+-------------------------
+altoona-johnstown
+    https://altoona.craigslist.org/
+
+cumberland valley
+    https://chambersburg.craigslist.org/
+
+erie
+    https://erie.craigslist.org/
+
+harrisburg
+    https://harrisburg.craigslist.org/
+
+lancaster
+    https://lancaster.craigslist.org/
+
+lehigh valley
+    https://allentown.craigslist.org/
+
+meadville
+    https://meadville.craigslist.org/
+
+philadelphia
+    https://philadelphia.craigslist.org/
+
+pittsburgh
+    https://pittsburgh.craigslist.org/
+
+poconos
+    https://poconos.craigslist.org/
+
+reading
+    https://reading.craigslist.org/
+
+scranton / wilkes-barre
+    https://scranton.craigslist.org/
+
+state college
+    https://pennstate.craigslist.org/
+
+williamsport
+    https://williamsport.craigslist.org/
+
+york
+    https://york.craigslist.org/
+
+
+-------------------------
+            Rhode Island
+-------------------------
+rhode island
+    https://providence.craigslist.org/
+
+
+-------------------------
+            South Carolina
+-------------------------
+charleston
+    https://charleston.craigslist.org/
+
+columbia
+    https://columbia.craigslist.org/
+
+florence
+    https://florencesc.craigslist.org/
+
+greenville / upstate
+    https://greenville.craigslist.org/
+
+hilton head
+    https://hiltonhead.craigslist.org/
+
+myrtle beach
+    https://myrtlebeach.craigslist.org/
+
+
+-------------------------
+            South Dakota
+-------------------------
+northeast SD
+    https://nesd.craigslist.org/
+
+pierre / central SD
+    https://csd.craigslist.org/
+
+rapid city / west SD
+    https://rapidcity.craigslist.org/
+
+sioux falls / SE SD
+    https://siouxfalls.craigslist.org/
+
+south dakota
+    https://sd.craigslist.org/
+
+
+-------------------------
+            Tennessee
+-------------------------
+chattanooga
+    https://chattanooga.craigslist.org/
+
+clarksville
+    https://clarksville.craigslist.org/
+
+cookeville
+    https://cookeville.craigslist.org/
+
+jackson  
+    https://jacksontn.craigslist.org/
+
+knoxville
+    https://knoxville.craigslist.org/
+
+memphis
+    https://memphis.craigslist.org/
+
+nashville
+    https://nashville.craigslist.org/
+
+tri-cities
+    https://tricities.craigslist.org/
+
+
+-------------------------
+            Texas
+-------------------------
+abilene
+    https://abilene.craigslist.org/
+
+amarillo
+    https://amarillo.craigslist.org/
+
+austin
+    https://austin.craigslist.org/
+
+beaumont / port arthur
+    https://beaumont.craigslist.org/
+
+brownsville
+    https://brownsville.craigslist.org/
+
+college station
+    https://collegestation.craigslist.org/
+
+corpus christi
+    https://corpuschristi.craigslist.org/
+
+dallas / fort worth
+    https://dallas.craigslist.org/
+
+deep east texas
+    https://nacogdoches.craigslist.org/
+
+del rio / eagle pass
+    https://delrio.craigslist.org/
+
+el paso
+    https://elpaso.craigslist.org/
+
+galveston
+    https://galveston.craigslist.org/
+
+houston
+    https://houston.craigslist.org/
+
+killeen / temple / ft hood
+    https://killeen.craigslist.org/
+
+laredo
+    https://laredo.craigslist.org/
+
+lubbock
+    https://lubbock.craigslist.org/
+
+mcallen / edinburg
+    https://mcallen.craigslist.org/
+
+odessa / midland
+    https://odessa.craigslist.org/
+
+san angelo
+    https://sanangelo.craigslist.org/
+
+san antonio
+    https://sanantonio.craigslist.org/
+
+san marcos
+    https://sanmarcos.craigslist.org/
+
+southwest TX
+    https://bigbend.craigslist.org/
+
+texoma
+    https://texoma.craigslist.org/
+
+tyler / east TX
+    https://easttexas.craigslist.org/
+
+victoria 
+    https://victoriatx.craigslist.org/
+
+waco
+    https://waco.craigslist.org/
+
+wichita falls
+    https://wichitafalls.craigslist.org/
+
+
+-------------------------
+            Utah
+-------------------------
+logan
+    https://logan.craigslist.org/
+
+ogden-clearfield
+    https://ogden.craigslist.org/
+
+provo / orem
+    https://provo.craigslist.org/
+
+salt lake city
+    https://saltlakecity.craigslist.org/
+
+st george
+    https://stgeorge.craigslist.org/
+
+
+-------------------------
+            Vermont
+-------------------------
+vermont
+    https://vermont.craigslist.org/
+
+
+-------------------------
+            Virginia
+-------------------------
+charlottesville
+    https://charlottesville.craigslist.org/
+
+danville
+    https://danville.craigslist.org/
+
+fredericksburg
+    https://fredericksburg.craigslist.org/
+
+hampton roads
+    https://norfolk.craigslist.org/
+
+harrisonburg
+    https://harrisonburg.craigslist.org/
+
+lynchburg
+    https://lynchburg.craigslist.org/
+
+new river valley
+    https://blacksburg.craigslist.org/
+
+richmond
+    https://richmond.craigslist.org/
+
+roanoke
+    https://roanoke.craigslist.org/
+
+southwest VA
+    https://swva.craigslist.org/
+
+winchester
+    https://winchester.craigslist.org/
+
+
+-------------------------
+            Washington
+-------------------------
+bellingham
+    https://bellingham.craigslist.org/
+
+kennewick-pasco-richland
+    https://kpr.craigslist.org/
+
+moses lake
+    https://moseslake.craigslist.org/
+
+olympic peninsula
+    https://olympic.craigslist.org/
+
+pullman / moscow
+    https://pullman.craigslist.org/
+
+seattle-tacoma
+    https://seattle.craigslist.org/
+
+skagit / island / SJI
+    https://skagit.craigslist.org/
+
+spokane / coeur d'alene
+    https://spokane.craigslist.org/
+
+wenatchee
+    https://wenatchee.craigslist.org/
+
+yakima
+    https://yakima.craigslist.org/
+
+
+-------------------------
+            West Virginia
+-------------------------
+charleston 
+    https://charlestonwv.craigslist.org/
+
+eastern panhandle
+    https://martinsburg.craigslist.org/
+
+huntington-ashland
+    https://huntington.craigslist.org/
+
+morgantown
+    https://morgantown.craigslist.org/
+
+northern panhandle
+    https://wheeling.craigslist.org/
+
+parkersburg-marietta
+    https://parkersburg.craigslist.org/
+
+southern WV
+    https://swv.craigslist.org/
+
+west virginia (old)
+    https://wv.craigslist.org/
+
+
+-------------------------
+            Wisconsin
+-------------------------
+appleton-oshkosh-FDL
+    https://appleton.craigslist.org/
+
+eau claire
+    https://eauclaire.craigslist.org/
+
+green bay
+    https://greenbay.craigslist.org/
+
+janesville
+    https://janesville.craigslist.org/
+
+kenosha-racine
+    https://racine.craigslist.org/
+
+la crosse
+    https://lacrosse.craigslist.org/
+
+madison
+    https://madison.craigslist.org/
+
+milwaukee
+    https://milwaukee.craigslist.org/
+
+northern WI
+    https://northernwi.craigslist.org/
+
+sheboygan
+    https://sheboygan.craigslist.org/
+
+wausau
+    https://wausau.craigslist.org/
+
+
+-------------------------
+            Wyoming
+-------------------------
+wyoming
+    https://wyoming.craigslist.org/
+
+
+-------------------------
+            Territories
+-------------------------
+guam-micronesia
+    https://micronesia.craigslist.org/
+
+puerto rico
+    https://puertorico.craigslist.org/
+
+U.S. virgin islands
+    https://virgin.craigslist.org/
+
+
+++++++++++++++++++++++++++
+        Canada
+++++++++++++++++++++++++++
+
+-------------------------
+            Alberta
+-------------------------
+calgary
+    https://calgary.craigslist.org/
+
+edmonton
+    https://edmonton.craigslist.org/
+
+ft mcmurray
+    https://ftmcmurray.craigslist.org/
+
+lethbridge
+    https://lethbridge.craigslist.org/
+
+medicine hat
+    https://hat.craigslist.org/
+
+peace river country
+    https://peace.craigslist.org/
+
+red deer
+    https://reddeer.craigslist.org/
+
+
+-------------------------
+            British Columbia
+-------------------------
+cariboo
+    https://cariboo.craigslist.org/
+
+comox valley
+    https://comoxvalley.craigslist.org/
+
+fraser valley
+    https://abbotsford.craigslist.org/
+
+kamloops
+    https://kamloops.craigslist.org/
+
+kelowna / okanagan
+    https://kelowna.craigslist.org/
+
+kootenays
+    https://kootenays.craigslist.org/
+
+nanaimo
+    https://nanaimo.craigslist.org/
+
+prince george
+    https://princegeorge.craigslist.org/
+
+skeena-bulkley
+    https://skeena.craigslist.org/
+
+sunshine coast
+    https://sunshine.craigslist.org/
+
+vancouver
+    https://vancouver.craigslist.org/
+
+victoria
+    https://victoria.craigslist.org/
+
+whistler
+    https://whistler.craigslist.org/
+
+
+-------------------------
+            Manitoba
+-------------------------
+winnipeg
+    https://winnipeg.craigslist.org/
+
+
+-------------------------
+            New Brunswick
+-------------------------
+new brunswick
+    https://newbrunswick.craigslist.org/
+
+
+-------------------------
+            Newfoundland and Labrador
+-------------------------
+st john's
+    https://newfoundland.craigslist.org/
+
+
+-------------------------
+            Northwest Territories
+-------------------------
+territories
+    https://territories.craigslist.org/
+
+yellowknife
+    https://yellowknife.craigslist.org/
+
+
+-------------------------
+            Nova Scotia
+-------------------------
+halifax
+    https://halifax.craigslist.org/
+
+
+-------------------------
+            Ontario
+-------------------------
+barrie
+    https://barrie.craigslist.org/
+
+belleville
+    https://belleville.craigslist.org/
+
+brantford-woodstock
+    https://brantford.craigslist.org/
+
+chatham-kent
+    https://chatham.craigslist.org/
+
+cornwall
+    https://cornwall.craigslist.org/
+
+guelph
+    https://guelph.craigslist.org/
+
+hamilton-burlington
+    https://hamilton.craigslist.org/
+
+kingston
+    https://kingston.craigslist.org/
+
+kitchener-waterloo-cambridge
+    https://kitchener.craigslist.org/
+
+london 
+    https://londonon.craigslist.org/
+
+niagara region
+    https://niagara.craigslist.org/
+
+ottawa-hull-gatineau
+    https://ottawa.craigslist.org/
+
+owen sound
+    https://owensound.craigslist.org/
+
+peterborough
+    https://peterborough.craigslist.org/
+
+sarnia
+    https://sarnia.craigslist.org/
+
+sault ste marie
+    https://soo.craigslist.org/
+
+sudbury
+    https://sudbury.craigslist.org/
+
+thunder bay
+    https://thunderbay.craigslist.org/
+
+toronto
+    https://toronto.craigslist.org/
+
+windsor
+    https://windsor.craigslist.org/
+
+
+-------------------------
+            Prince Edward Island
+-------------------------
+prince edward island
+    https://pei.craigslist.org/
+
+
+-------------------------
+            Quebec
+-------------------------
+montreal
+    https://montreal.craigslist.org/
+
+quebec city
+    https://quebec.craigslist.org/
+
+saguenay
+    https://saguenay.craigslist.org/
+
+sherbrooke
+    https://sherbrooke.craigslist.org/
+
+trois-rivieres
+    https://troisrivieres.craigslist.org/
+
+
+-------------------------
+            Saskatchewan
+-------------------------
+regina
+    https://regina.craigslist.org/
+
+saskatoon
+    https://saskatoon.craigslist.org/
+
+
+-------------------------
+            Yukon Territory
+-------------------------
+whitehorse
+    https://whitehorse.craigslist.org/
+
+
+++++++++++++++++++++++++++
+        Europe
+++++++++++++++++++++++++++
+
+-------------------------
+            Austria
+-------------------------
+vienna
+    https://vienna.craigslist.at/
+
+
+-------------------------
+            Belgium
+-------------------------
+belgium
+    https://brussels.craigslist.org/
+
+
+-------------------------
+            Bulgaria
+-------------------------
+bulgaria
+    https://bulgaria.craigslist.org/
+
+
+-------------------------
+            Croatia
+-------------------------
+croatia
+    https://zagreb.craigslist.org/
+
+
+-------------------------
+            Czech Republic
+-------------------------
+prague
+    https://prague.craigslist.cz/
+
+
+-------------------------
+            Denmark
+-------------------------
+copenhagen
+    https://copenhagen.craigslist.org/
+
+
+-------------------------
+            Finland
+-------------------------
+finland
+    https://helsinki.craigslist.fi/
+
+
+-------------------------
+            France
+-------------------------
+bordeaux
+    https://bordeaux.craigslist.org/
+
+brittany
+    https://rennes.craigslist.org/
+
+grenoble
+    https://grenoble.craigslist.org/
+
+lille
+    https://lille.craigslist.org/
+
+loire valley
+    https://loire.craigslist.org/
+
+lyon
+    https://lyon.craigslist.org/
+
+marseille
+    https://marseilles.craigslist.org/
+
+montpellier
+    https://montpellier.craigslist.org/
+
+nice / cote d'azur
+    https://cotedazur.craigslist.org/
+
+normandy
+    https://rouen.craigslist.org/
+
+paris
+    https://paris.craigslist.org/
+
+strasbourg
+    https://strasbourg.craigslist.org/
+
+toulouse
+    https://toulouse.craigslist.org/
+
+
+-------------------------
+            Germany
+-------------------------
+berlin
+    https://berlin.craigslist.de/
+
+bremen
+    https://bremen.craigslist.de/
+
+cologne
+    https://cologne.craigslist.de/
+
+dresden
+    https://dresden.craigslist.de/
+
+dusseldorf
+    https://dusseldorf.craigslist.de/
+
+essen / ruhr
+    https://essen.craigslist.de/
+
+frankfurt
+    https://frankfurt.craigslist.de/
+
+hamburg
+    https://hamburg.craigslist.de/
+
+hannover
+    https://hannover.craigslist.de/
+
+heidelberg
+    https://heidelberg.craigslist.de/
+
+kaiserslautern
+    https://kaiserslautern.craigslist.de/
+
+leipzig
+    https://leipzig.craigslist.de/
+
+munich
+    https://munich.craigslist.de/
+
+nuremberg
+    https://nuremberg.craigslist.de/
+
+stuttgart
+    https://stuttgart.craigslist.de/
+
+
+-------------------------
+            Greece
+-------------------------
+greece
+    https://athens.craigslist.gr/
+
+
+-------------------------
+            Hungary
+-------------------------
+budapest
+    https://budapest.craigslist.org/
+
+
+-------------------------
+            Iceland
+-------------------------
+reykjavik
+    https://reykjavik.craigslist.org/
+
+
+-------------------------
+            Ireland
+-------------------------
+dublin
+    https://dublin.craigslist.org/
+
+
+-------------------------
+            Italy
+-------------------------
+bologna
+    https://bologna.craigslist.it/
+
+florence / tuscany
+    https://florence.craigslist.it/
+
+genoa
+    https://genoa.craigslist.it/
+
+milan
+    https://milan.craigslist.it/
+
+napoli / campania
+    https://naples.craigslist.it/
+
+perugia
+    https://perugia.craigslist.it/
+
+rome
+    https://rome.craigslist.it/
+
+sardinia
+    https://sardinia.craigslist.it/
+
+sicilia
+    https://sicily.craigslist.it/
+
+torino
+    https://torino.craigslist.it/
+
+venice / veneto
+    https://venice.craigslist.it/
+
+
+-------------------------
+            Luxembourg
+-------------------------
+luxembourg
+    https://luxembourg.craigslist.org/
+
+
+-------------------------
+            Netherlands
+-------------------------
+amsterdam / randstad
+    https://amsterdam.craigslist.org/
+
+
+-------------------------
+            Norway
+-------------------------
+norway
+    https://oslo.craigslist.org/
+
+
+-------------------------
+            Poland
+-------------------------
+poland
+    https://warsaw.craigslist.pl/
+
+
+-------------------------
+            Portugal
+-------------------------
+faro / algarve
+    https://faro.craigslist.pt/
+
+lisbon
+    https://lisbon.craigslist.pt/
+
+porto
+    https://porto.craigslist.pt/
+
+
+-------------------------
+            Romania
+-------------------------
+romania
+    https://bucharest.craigslist.org/
+
+
+-------------------------
+            Russian Federation
+-------------------------
+moscow
+    https://moscow.craigslist.org/
+
+st petersburg
+    https://stpetersburg.craigslist.org/
+
+
+-------------------------
+            Spain
+-------------------------
+alicante
+    https://alicante.craigslist.es/
+
+baleares
+    https://baleares.craigslist.es/
+
+barcelona
+    https://barcelona.craigslist.es/
+
+bilbao
+    https://bilbao.craigslist.es/
+
+cadiz
+    https://cadiz.craigslist.es/
+
+canarias
+    https://canarias.craigslist.es/
+
+granada
+    https://granada.craigslist.es/
+
+madrid
+    https://madrid.craigslist.es/
+
+malaga
+    https://malaga.craigslist.es/
+
+sevilla
+    https://sevilla.craigslist.es/
+
+valencia
+    https://valencia.craigslist.es/
+
+
+-------------------------
+            Sweden
+-------------------------
+sweden
+    https://stockholm.craigslist.se/
+
+
+-------------------------
+            Switzerland
+-------------------------
+basel
+    https://basel.craigslist.ch/
+
+bern
+    https://bern.craigslist.ch/
+
+geneva
+    https://geneva.craigslist.ch/
+
+lausanne
+    https://lausanne.craigslist.ch/
+
+zurich
+    https://zurich.craigslist.ch/
+
+
+-------------------------
+            Turkey
+-------------------------
+turkey
+    https://istanbul.craigslist.com.tr/
+
+
+-------------------------
+            Ukraine
+-------------------------
+ukraine
+    https://ukraine.craigslist.org/
+
+
+-------------------------
+            United Kingdom
+-------------------------
+aberdeen
+    https://aberdeen.craigslist.co.uk/
+
+bath
+    https://bath.craigslist.co.uk/
+
+belfast
+    https://belfast.craigslist.co.uk/
+
+birmingham / west mids
+    https://birmingham.craigslist.co.uk/
+
+brighton
+    https://brighton.craigslist.co.uk/
+
+bristol
+    https://bristol.craigslist.co.uk/
+
+cambridge, UK
+    https://cambridge.craigslist.co.uk/
+
+cardiff / wales
+    https://cardiff.craigslist.co.uk/
+
+coventry
+    https://coventry.craigslist.co.uk/
+
+derby
+    https://derby.craigslist.co.uk/
+
+devon & cornwall
+    https://devon.craigslist.co.uk/
+
+dundee
+    https://dundee.craigslist.co.uk/
+
+east anglia
+    https://norwich.craigslist.co.uk/
+
+east midlands
+    https://eastmids.craigslist.co.uk/
+
+edinburgh
+    https://edinburgh.craigslist.co.uk/
+
+essex
+    https://essex.craigslist.co.uk/
+
+glasgow
+    https://glasgow.craigslist.co.uk/
+
+hampshire
+    https://hampshire.craigslist.co.uk/
+
+kent
+    https://kent.craigslist.co.uk/
+
+leeds
+    https://leeds.craigslist.co.uk/
+
+liverpool
+    https://liverpool.craigslist.co.uk/
+
+london
+    https://london.craigslist.co.uk/
+
+manchester
+    https://manchester.craigslist.co.uk/
+
+newcastle / NE england
+    https://newcastle.craigslist.co.uk/
+
+nottingham
+    https://nottingham.craigslist.co.uk/
+
+oxford
+    https://oxford.craigslist.co.uk/
+
+sheffield
+    https://sheffield.craigslist.co.uk/
+
+
+++++++++++++++++++++++++++
+        Asia, Pacific and Middle East
+++++++++++++++++++++++++++
+
+-------------------------
+            Bangladesh
+-------------------------
+bangladesh
+    https://bangladesh.craigslist.org/
+
+
+-------------------------
+            China
+-------------------------
+beijing
+    https://beijing.craigslist.com.cn/
+
+chengdu
+    https://chengdu.craigslist.com.cn/
+
+chongqing
+    https://chongqing.craigslist.com.cn/
+
+dalian
+    https://dalian.craigslist.com.cn/
+
+guangzhou
+    https://guangzhou.craigslist.com.cn/
+
+hangzhou
+    https://hangzhou.craigslist.com.cn/
+
+nanjing
+    https://nanjing.craigslist.com.cn/
+
+shanghai
+    https://shanghai.craigslist.com.cn/
+
+shenyang
+    https://shenyang.craigslist.com.cn/
+
+shenzhen
+    https://shenzhen.craigslist.com.cn/
+
+wuhan
+    https://wuhan.craigslist.com.cn/
+
+xi'an
+    https://xian.craigslist.com.cn/
+
+
+-------------------------
+            Guam / Micronesia
+-------------------------
+guam-micronesia
+    https://micronesia.craigslist.org/
+
+
+-------------------------
+            Hong Kong
+-------------------------
+hong kong
+    https://hongkong.craigslist.hk/
+
+
+-------------------------
+            India
+-------------------------
+ahmedabad
+    https://ahmedabad.craigslist.co.in/
+
+bangalore
+    https://bangalore.craigslist.co.in/
+
+bhubaneswar
+    https://bhubaneswar.craigslist.co.in/
+
+chandigarh
+    https://chandigarh.craigslist.co.in/
+
+chennai (madras)
+    https://chennai.craigslist.co.in/
+
+delhi
+    https://delhi.craigslist.co.in/
+
+goa
+    https://goa.craigslist.co.in/
+
+hyderabad
+    https://hyderabad.craigslist.co.in/
+
+indore
+    https://indore.craigslist.co.in/
+
+jaipur
+    https://jaipur.craigslist.co.in/
+
+kerala
+    https://kerala.craigslist.co.in/
+
+kolkata (calcutta)
+    https://kolkata.craigslist.co.in/
+
+lucknow
+    https://lucknow.craigslist.co.in/
+
+mumbai
+    https://mumbai.craigslist.co.in/
+
+pune
+    https://pune.craigslist.co.in/
+
+surat surat
+    https://surat.craigslist.co.in/
+
+
+-------------------------
+            Indonesia
+-------------------------
+indonesia
+    https://jakarta.craigslist.org/
+
+
+-------------------------
+            Iran
+-------------------------
+iran
+    https://tehran.craigslist.org/
+
+
+-------------------------
+            Iraq
+-------------------------
+iraq
+    https://baghdad.craigslist.org/
+
+
+-------------------------
+            Israel and Palestine
+-------------------------
+haifa
+    https://haifa.craigslist.org/
+
+jerusalem
+    https://jerusalem.craigslist.org/
+
+tel aviv
+    https://telaviv.craigslist.org/
+
+west bank
+    https://ramallah.craigslist.org/
+
+
+-------------------------
+            Japan
+-------------------------
+fukuoka
+    https://fukuoka.craigslist.jp/
+
+hiroshima
+    https://hiroshima.craigslist.jp/
+
+nagoya
+    https://nagoya.craigslist.jp/
+
+okinawa
+    https://okinawa.craigslist.jp/
+
+osaka-kobe-kyoto
+    https://osaka.craigslist.jp/
+
+sapporo
+    https://sapporo.craigslist.jp/
+
+sendai
+    https://sendai.craigslist.jp/
+
+tokyo
+    https://tokyo.craigslist.jp/
+
+
+-------------------------
+            Korea
+-------------------------
+seoul
+    https://seoul.craigslist.co.kr/
+
+
+-------------------------
+            Kuwait
+-------------------------
+kuwait
+    https://kuwait.craigslist.org/
+
+
+-------------------------
+            Lebanon
+-------------------------
+beirut, lebanon
+    https://beirut.craigslist.org/
+
+
+-------------------------
+            Malaysia
+-------------------------
+malaysia
+    https://malaysia.craigslist.org/
+
+
+-------------------------
+            Pakistan
+-------------------------
+pakistan
+    https://pakistan.craigslist.org/
+
+
+-------------------------
+            Philippines
+-------------------------
+bacolod
+    https://bacolod.craigslist.com.ph/
+
+bicol region
+    https://naga.craigslist.com.ph/
+
+cagayan de oro
+    https://cdo.craigslist.com.ph/
+
+cebu
+    https://cebu.craigslist.com.ph/
+
+davao city
+    https://davaocity.craigslist.com.ph/
+
+iloilo
+    https://iloilo.craigslist.com.ph/
+
+manila
+    https://manila.craigslist.com.ph/
+
+pampanga
+    https://pampanga.craigslist.com.ph/
+
+zamboanga
+    https://zamboanga.craigslist.com.ph/
+
+
+-------------------------
+            Singapore
+-------------------------
+singapore
+    https://singapore.craigslist.com.sg/
+
+
+-------------------------
+            Taiwan
+-------------------------
+taiwan
+    https://taipei.craigslist.com.tw/
+
+
+-------------------------
+            Thailand
+-------------------------
+thailand
+    https://bangkok.craigslist.co.th/
+
+
+-------------------------
+            United Arab Emirates
+-------------------------
+united arab emirates
+    https://dubai.craigslist.org/
+
+
+-------------------------
+            Vietnam
+-------------------------
+vietnam
+    https://vietnam.craigslist.org/
+
+
+++++++++++++++++++++++++++
+        Oceania
+++++++++++++++++++++++++++
+
+-------------------------
+            Australia
+-------------------------
+adelaide
+    https://adelaide.craigslist.com.au/
+
+brisbane
+    https://brisbane.craigslist.com.au/
+
+cairns
+    https://cairns.craigslist.com.au/
+
+canberra
+    https://canberra.craigslist.com.au/
+
+darwin
+    https://darwin.craigslist.com.au/
+
+gold coast
+    https://goldcoast.craigslist.com.au/
+
+melbourne
+    https://melbourne.craigslist.com.au/
+
+newcastle, NSW
+    https://ntl.craigslist.com.au/
+
+perth
+    https://perth.craigslist.com.au/
+
+sydney
+    https://sydney.craigslist.com.au/
+
+tasmania
+    https://hobart.craigslist.com.au/
+
+wollongong
+    https://wollongong.craigslist.com.au/
+
+
+-------------------------
+            New Zealand
+-------------------------
+auckland
+    https://auckland.craigslist.org/
+
+christchurch
+    https://christchurch.craigslist.org/
+
+dunedin
+    https://dunedin.craigslist.co.nz/
+
+wellington
+    https://wellington.craigslist.org/
+
+
+++++++++++++++++++++++++++
+        Latin America and Caribbean
+++++++++++++++++++++++++++
+
+-------------------------
+            Argentina
+-------------------------
+buenos aires
+    https://buenosaires.craigslist.org/
+
+
+-------------------------
+            Bolivia
+-------------------------
+bolivia
+    https://lapaz.craigslist.org/
+
+
+-------------------------
+            Brazil
+-------------------------
+belo horizonte
+    https://belohorizonte.craigslist.org/
+
+brasilia
+    https://brasilia.craigslist.org/
+
+curitiba
+    https://curitiba.craigslist.org/
+
+fortaleza
+    https://fortaleza.craigslist.org/
+
+porto alegre
+    https://portoalegre.craigslist.org/
+
+recife
+    https://recife.craigslist.org/
+
+rio de janeiro
+    https://rio.craigslist.org/
+
+salvador, bahia
+    https://salvador.craigslist.org/
+
+sao paulo
+    https://saopaulo.craigslist.org/
+
+
+-------------------------
+            Caribbean Islands
+-------------------------
+caribbean islands
+    https://caribbean.craigslist.org/
+
+
+-------------------------
+            Chile
+-------------------------
+chile
+    https://santiago.craigslist.org/
+
+
+-------------------------
+            Colombia
+-------------------------
+colombia
+    https://colombia.craigslist.org/
+
+
+-------------------------
+            Costa Rica
+-------------------------
+costa rica
+    https://costarica.craigslist.org/
+
+
+-------------------------
+            Dominican Republic
+-------------------------
+dominican republic
+    https://santodomingo.craigslist.org/
+
+
+-------------------------
+            Ecuador
+-------------------------
+ecuador
+    https://quito.craigslist.org/
+
+
+-------------------------
+            El Salvador
+-------------------------
+el salvador
+    https://elsalvador.craigslist.org/
+
+
+-------------------------
+            Guatemala
+-------------------------
+guatemala
+    https://guatemala.craigslist.org/
+
+
+-------------------------
+            Mexico
+-------------------------
+acapulco
+    https://acapulco.craigslist.com.mx/
+
+baja california sur
+    https://bajasur.craigslist.com.mx/
+
+chihuahua
+    https://chihuahua.craigslist.com.mx/
+
+ciudad juarez
+    https://juarez.craigslist.com.mx/
+
+guadalajara
+    https://guadalajara.craigslist.com.mx/
+
+guanajuato
+    https://guanajuato.craigslist.com.mx/
+
+hermosillo
+    https://hermosillo.craigslist.com.mx/
+
+mazatlan
+    https://mazatlan.craigslist.com.mx/
+
+mexico city
+    https://mexicocity.craigslist.com.mx/
+
+monterrey
+    https://monterrey.craigslist.com.mx/
+
+oaxaca
+    https://oaxaca.craigslist.com.mx/
+
+puebla
+    https://puebla.craigslist.com.mx/
+
+puerto vallarta
+    https://pv.craigslist.com.mx/
+
+tijuana
+    https://tijuana.craigslist.com.mx/
+
+veracruz
+    https://veracruz.craigslist.com.mx/
+
+yucatan
+    https://yucatan.craigslist.com.mx/
+
+
+-------------------------
+            Nicaragua
+-------------------------
+nicaragua
+    https://managua.craigslist.org/
+
+
+-------------------------
+            Panama
+-------------------------
+panama
+    https://panama.craigslist.org/
+
+
+-------------------------
+            Peru
+-------------------------
+peru
+    https://lima.craigslist.org/
+
+
+-------------------------
+            Puerto Rico
+-------------------------
+puerto rico
+    https://puertorico.craigslist.org/
+
+
+-------------------------
+            Uruguay
+-------------------------
+montevideo
+    https://montevideo.craigslist.org/
+
+
+-------------------------
+            Venezuela
+-------------------------
+venezuela
+    https://caracas.craigslist.org/
+
+
+-------------------------
+            Virgin Islands, U.S.
+-------------------------
+virgin islands
+    https://virgin.craigslist.org/
+
+
+++++++++++++++++++++++++++
+        Africa
+++++++++++++++++++++++++++
+
+-------------------------
+            Egypt
+-------------------------
+egypt
+    https://cairo.craigslist.org/
+
+
+-------------------------
+            Ethiopia
+-------------------------
+ethiopia
+    https://addisababa.craigslist.org/
+
+
+-------------------------
+            Ghana
+-------------------------
+ghana
+    https://accra.craigslist.org/
+
+
+-------------------------
+            Kenya
+-------------------------
+kenya
+    https://kenya.craigslist.org/
+
+
+-------------------------
+            Morocco
+-------------------------
+morocco
+    https://casablanca.craigslist.org/
+
+
+-------------------------
+            South Africa
+-------------------------
+cape town
+    https://capetown.craigslist.co.za/
+
+durban
+    https://durban.craigslist.co.za/
+
+johannesburg
+    https://johannesburg.craigslist.co.za/
+
+pretoria
+    https://pretoria.craigslist.co.za/
+
+
+-------------------------
+            Tunisia
+-------------------------
+tunisia
+    https://tunis.craigslist.org/
+
